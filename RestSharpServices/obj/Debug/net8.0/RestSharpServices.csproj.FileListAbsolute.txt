@@ -1,0 +1,17 @@
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/bin/Debug/net8.0/RestSharpServices
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/bin/Debug/net8.0/RestSharpServices.deps.json
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/bin/Debug/net8.0/RestSharpServices.runtimeconfig.json
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/bin/Debug/net8.0/RestSharpServices.dll
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/bin/Debug/net8.0/RestSharpServices.pdb
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/bin/Debug/net8.0/RestSharp.dll
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.csproj.AssemblyReference.cache
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.AssemblyInfoInputs.cache
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.AssemblyInfo.cs
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.csproj.CoreCompileInputs.cache
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestShar.4277DC1C.Up2Date
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.dll
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/refint/RestSharpServices.dll
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.pdb
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/RestSharpServices.genruntimeconfig.cache
+/Users/m/Desktop/RestSharpExercise/RestSharpServices/obj/Debug/net8.0/ref/RestSharpServices.dll
